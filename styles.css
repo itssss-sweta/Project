@@ -38,24 +38,14 @@ body {
 
 .btn-primary {
   color: #fff;
-  background: #16a083;
+  background: rgb(33, 7, 0);
 }
 
 .btn-primary:hover {
-  background: #117964;
+  background: rgb(50, 17, 17);
   transition: background 0.3s ease-in-out;
 }
-.btn-light :hover {
-  background: gray;
-  transition: background 0.3s ease-in-out;
 
-
-}
-.btn-light{
-    background: #fff !important;
-    border: 2px solid #0059ff !important;
-    padding: 2px;
-}
 
 /* ............/navbar/............ *
 
@@ -141,8 +131,20 @@ body {
 .main-title {
   text-transform: uppercase;
   margin-top: 1.5em;
+  color: white;
+  text-shadow: 2px 2px black;
+  padding: 10px;
+  text-align: center;
+  font-size: 35px;
 }
 
+.mmm{
+  color: white;
+  text-shadow: 2px 2px black;
+  padding: 5px;
+  text-align: center;
+  
+}
 
 
 /* ......../ media query /.......... */

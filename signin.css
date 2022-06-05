@@ -57,7 +57,7 @@
   :root {
     --htmlFontSize: 100%;
   
-    --bodyBackgroundColor: #2c3338;
+    /* --bodyBackgroundColor: #e4eff7; */
     --bodyColor: var(--baseColor);
     --bodyFontFamily: "Open Sans";
     --bodyFontFamilyFallback: sans-serif;
